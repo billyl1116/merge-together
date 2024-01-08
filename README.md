@@ -1,4 +1,7 @@
 # merge-together
+apple
+taste
+like
+banana
 
 
-Calvin is fat
